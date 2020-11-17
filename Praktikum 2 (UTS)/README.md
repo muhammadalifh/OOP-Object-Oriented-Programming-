@@ -1,3 +1,4 @@
 nomor-1-fighting-basic
 
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/61005674/99267634-c6a60680-2856-11eb-97e4-0bb6abb6fdc2.gif)
+![nomor1](https://user-images.githubusercontent.com/61005674/99408197-89a74600-2922-11eb-8f38-dd48c1ff5127.gif)
+
