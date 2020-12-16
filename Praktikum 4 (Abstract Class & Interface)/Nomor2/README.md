@@ -1,3 +1,7 @@
+![prak4-2](https://user-images.githubusercontent.com/61005674/102386153-4d3e3700-4001-11eb-9ace-9b1d6eb93ec2.gif)
+
+
+
 # Soal
 1.) Buktikan bahwa abstract method memastikan bahwa method tersebut di-override oleh subclass. 
 
