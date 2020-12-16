@@ -8,7 +8,7 @@
 
 `from abc import ABC,abstractmethod`
 
-![1 1](https://user-images.githubusercontent.com/61005674/102380625-b66e7c00-3ffa-11eb-8cf5-75e8c030cc61.png)
+![1 2](https://user-images.githubusercontent.com/61005674/102381028-4c0a0b80-3ffb-11eb-92d9-40db1073db58.png)
 
 
 
