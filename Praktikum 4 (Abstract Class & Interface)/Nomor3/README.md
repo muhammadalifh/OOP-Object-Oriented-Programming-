@@ -24,5 +24,5 @@ Karena itulah interface ini banyak digunakan dalam dunia design pattern. Sebab k
 
 Tetapi karena disini saya menggunakan bahasa python, maka sebenarnya Interface sendiri juga tidak terlalu di butuhkan.
 ini karena Python memiliki multiple inheritance yang tepat, dan juga ducktyping.
-Meskipun demikian, masih ada beberapa kegunaan Interface. Beberapa dari interface tersebut dicakup oleh Abstract Base Classes (ABC) Pythons, diperkenalkan pada Python 2.6. 
+Meskipun demikian, masih ada beberapa kegunaan Interface. Beberapa dari interface tersebut dicakup oleh Abstract Base Classes (**ABC**) Pythons, diperkenalkan pada Python 2.6. 
 Hal ini, berguna kika ingin membuat base classes yang tidak dapat dibuat instance-nya, tetapi menyediakan interface atau bagian tertentu dari implementasinya.
