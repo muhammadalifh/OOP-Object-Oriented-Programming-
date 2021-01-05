@@ -13,3 +13,7 @@ Tinggal ketikkan :
 Tanda bintang ( * ) menunjukan all atau semua artinya import semua yang ada di modul tkinter.
 
 Source : https://sutandi1.blogspot.com/2015/11/gui-pyhton-tkinter.html
+
+# Contoh Program
+
+![gif](https://user-images.githubusercontent.com/61005674/103616428-050a9880-4f5f-11eb-9ba3-5e4837f95d05.gif)
